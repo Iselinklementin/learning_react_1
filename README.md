@@ -1,27 +1,15 @@
-# JS Frameworks - Module Assignment 1
+### JS Frameworks - Module Assignment 1
 
 # Brief
 
-Create a new app using Create React App.
-
-You can create an app inside the current folder using:
-
-```
-npx create-react-app .
-```
-
-> If your repo name has a capital letter in it make the folder name all lowercase before running the above command.
-
----
 
 Level 1 is required.
-
 Level 2 is optional.
 
-You can use a UI library like React Bootstrap or style it all on your own. You can use Sass, CSS Modules, Styled Components or Tailwind, but the app must be responsive (including having a responsive menu).
+You can use a UI library like React Bootstrap or style it all on your own. 
+You can use Sass, CSS Modules, Styled Components or Tailwind, but the app must be responsive (including having a responsive menu).
 
 Regarding UI libraries, the tutors can only assist with React Bootstrap.
-
 You can use lorem ipsum for all text except menu items and headings.
 
 ## Level 1
